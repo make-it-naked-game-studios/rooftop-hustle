@@ -1,8 +1,5 @@
 Library/Bee/artifacts/mvdfrm/Unity.2D.Animation.Editor.ref.dll_AC471A120856CE35.mvfrm
 Library/Bee/artifacts/mvdfrm/Unity.2D.Animation.Runtime.ref.dll_8A406646DF492A26.mvfrm
-Library/Bee/artifacts/mvdfrm/Unity.2D.Animation.Samples.Dependency.ref.dll_5AC3611B4AACA2F8.mvfrm
-Library/Bee/artifacts/mvdfrm/Unity.2D.Animation.Samples.Editor.ref.dll_9860E8F08003692A.mvfrm
-Library/Bee/artifacts/mvdfrm/Unity.2D.Animation.Samples.Runtime.ref.dll_720B62E4A7540161.mvfrm
 Library/Bee/artifacts/mvdfrm/Unity.2D.Common.Editor.ref.dll_C9AFC0EDC556EDD8.mvfrm
 Library/Bee/artifacts/mvdfrm/Unity.2D.Common.Runtime.ref.dll_42D85E2227B6C2D3.mvfrm
 Library/Bee/artifacts/mvdfrm/Unity.2D.IK.Editor.ref.dll_EBF3BACA2A514D71.mvfrm
@@ -131,9 +128,9 @@ Library/Bee/artifacts/mvdfrm/Unity.Android.Gradle.dll_4320775E7627FAF7.mvfrm
 Library/Bee/artifacts/mvdfrm/Unity.Android.Types.dll_082E729DE116C135.mvfrm
 Library/Bee/artifacts/mvdfrm/UnityEditor.iOS.Extensions.Common.dll_921550E8473E31F4.mvfrm
 Library/Bee/artifacts/mvdfrm/UnityEditor.iOS.Extensions.Xcode.dll_8DC6C820E95E7E98.mvfrm
-Library/Bee/artifacts/mvdfrm/Unity.Burst.Cecil.Mdb.dll_7ED71E5BBDF56A7A.mvfrm
-Library/Bee/artifacts/mvdfrm/Unity.Burst.Cecil.Pdb.dll_962996CB3CAA6BFD.mvfrm
-Library/Bee/artifacts/mvdfrm/Unity.Burst.Cecil.Rocks.dll_F0435AB01929FDBD.mvfrm
-Library/Bee/artifacts/mvdfrm/Unity.Burst.Cecil.dll_15F313FB99E28FFD.mvfrm
-Library/Bee/artifacts/mvdfrm/Unity.Burst.Unsafe.dll_54AAD29A56561886.mvfrm
-Library/Bee/artifacts/mvdfrm/Unity.VisualScripting.Antlr3.Runtime.dll_BEE17113DC56D48E.mvfrm
+Library/Bee/artifacts/mvdfrm/Unity.Burst.Cecil.Mdb.dll_E6BF96EACD3B015D.mvfrm
+Library/Bee/artifacts/mvdfrm/Unity.Burst.Cecil.Pdb.dll_FE120F5A4BF002E0.mvfrm
+Library/Bee/artifacts/mvdfrm/Unity.Burst.Cecil.Rocks.dll_0FA285E1BD959F00.mvfrm
+Library/Bee/artifacts/mvdfrm/Unity.Burst.Cecil.dll_DDF7A3CEE49F3620.mvfrm
+Library/Bee/artifacts/mvdfrm/Unity.Burst.Unsafe.dll_A513B295CDC88273.mvfrm
+Library/Bee/artifacts/mvdfrm/Unity.VisualScripting.Antlr3.Runtime.dll_C7502D83BFD71C3B.mvfrm
