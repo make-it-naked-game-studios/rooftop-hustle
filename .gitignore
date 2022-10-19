@@ -1,8 +1,7 @@
-Assets/Samples
-Assets/StreamingAssets
 Logs
-Library
+Library/PackageCache
 obj
 Temp
 ProjectSettings
 Unity.2D.Animation.Samples*
+*.meta
